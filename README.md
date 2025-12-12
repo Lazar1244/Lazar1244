@@ -3,7 +3,7 @@
 I’m an **AI Engineer / Data Analyst specialized in AI**.  
 I enjoy building **AI-powered applications**, **data pipelines**, and **MLOps-ready systems** that can move from idea → production.
 
-📍 Paris, France · ✉️ **lazar5697@gmail.com** · 💻 **GitHub:** [Lazar1244](https://github.com/Lazar1244)
+📍 Paris, France · ✉️ **lazar5697@gmail.com** ·
 
 ---
 
