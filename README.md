@@ -60,12 +60,6 @@ I enjoy building **AI-powered applications**, **data pipelines**, and **MLOps-re
 
 ---
 
-### 📜 Certifications
-- ✅ **Snowflake — Hands On Essentials**
-- ✅ **Apache Airflow — Certification**
-
----
-
 ### 🌍 Languages
 - 🇬🇧 English: **C2** (native level)  
 - 🇫🇷 French: **C2** (bilingual)
@@ -77,9 +71,3 @@ I enjoy building **AI-powered applications**, **data pipelines**, and **MLOps-re
 - 💻 GitHub: **[Lazar1244](https://github.com/Lazar1244)**
 - 🔗 LinkedIn: **[lazar-stevanovic](https://www.linkedin.com/in/lazar-stevanovic-90a111144/)**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazar-stevanovic-90a111144/)
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lazar1244&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazar1244&layout=compact)
