@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm **Lazar Stevanovic**  
 🤖 **AI Engineer / Data Analyst (AI-focused)**  
 🔁 I build **AI-powered apps**, **ETL/data pipelines**, and **MLOps-ready** systems (from idea → production)  
