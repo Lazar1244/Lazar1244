@@ -35,12 +35,7 @@
 
 > Extra (tools/methods I use a lot): **GitFlow · CI/CD · Agile Scrum · Code Review · Data Pipelines · MLOps**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lazar1244&show_icons=true&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazar1244&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Lazar1244&icon=0&color=11)
