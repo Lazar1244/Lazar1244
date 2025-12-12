@@ -1,11 +1,11 @@
-<!-- Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Lazar%20Stevanovic&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
   <b>AI Engineer / Data Analyst (AI-focused)</b><br/>
-  Paris · MSc AI Engineering @ Université Paris 8<br/>
+  Paris · MSc AI Engineering<br/>
   <i>AI apps · ETL/data pipelines · MLOps-ready systems</i>
 </p>
 
@@ -58,7 +58,7 @@
 
 ## 🧰 Toolbox (stack I use)
 <p>
-  <!-- Languages -->
+ 
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -70,14 +70,14 @@
 </p>
 
 <p>
-  <!-- ML -->
+ 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 <p>
-  <!-- Data / Cloud -->
+ 
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -88,7 +88,7 @@
 </p>
 
 <p>
-  <!-- Workflow -->
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -99,11 +99,10 @@
 ---
 
 ## ✨ Currently exploring (bonus skills)
-*(Not “claims” — just what I’m actively learning/playing with.)*
-- 🧩 **MLflow** for experiment tracking & model registry
-- 🧱 **Kubernetes** basics for deployments
-- 🧰 **dbt** for analytics engineering
-- 🗺️ **Terraform** fundamentals for infra-as-code
+- 🧩 **MLflow** 
+- 🧱 **Kubernetes** 
+- 🧰 **dbt** 
+- 🗺️ **Terraform** 
 
 ---
 
@@ -113,14 +112,6 @@
   ✅ Snowflake — Hands On Essentials<br/>
   ✅ Apache Airflow — Certification
 </details>
-
----
-
-## 📈 GitHub at a glance
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazar1244&show_icons=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazar1244&layout=compact" height="165" />
-</p>
 
 ---
 
