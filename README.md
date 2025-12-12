@@ -1,59 +1,31 @@
-# Hi, I'm **Lazar Stevanovic** 👋
+## Hi there 👋, I'm **Lazar Stevanovic** 🤖📊
 
-**AI Engineer / Data Analyst specialized in AI** · 📍 **Paris, France**
+I’m an **AI Engineer / Data Analyst specialized in AI**, currently a **Master student in Artificial Intelligence Engineering (I2A)** at **Université Paris 8 (France)**.  
+I enjoy building **AI-powered applications**, **data pipelines**, and **MLOps-ready systems** that can move from idea → production.
 
-I build **production-ready AI applications** and **data/ML pipelines**, with a strong focus on **MLOps**, **automation**, and **scalable architectures** (cloud · on‑prem · hybrid).
-
----
-
-## 🎯 What I do
-
-- 🤖 **AI application development** (from prototype → production)
-- 🧱 **Technical architecture** (cloud / on‑prem / hybrid)
-- 🧪 **MLOps practices** (reproducibility, CI/CD, monitoring, deployment)
-- 🔁 **ETL / data pipelines** and integration
-- 📊 **Analytics & reporting** (Power BI)
+📍 Paris, France · ✉️ **lazar5697@gmail.com** · 💻 **GitHub:** [Lazar1244](https://github.com/Lazar1244)
 
 ---
 
-## 🧩 Experience
-
-### **Machine Learning Engineer (Marketing)** — *MLM RENOV (Paris, France)*  
-**Apr 2025 – Oct 2025**
-- Built **dynamic customer segmentation**
-- Implemented **behavior-based automated email campaigns**
-- Integrated **ML models into a CRM**
-- ✅ Delivered a **behavior-adaptive ML emailing system** → **+20% CTR**
-
-### **AI Engineer** — *Artisan AI (San Francisco, USA)*  
-**Jul 2024 – Sep 2024**
-- Developed **AI-based applications**
-- Advised on **technical architecture** (cloud/on‑prem/hybrid) and **data pipeline integration**
-- Implemented and maintained **MLOps practices**
-- ✅ Finalized an internal system to **monitor & predict junior performance** to assess potential
-
-### **Application Developer** — *ITEAM SAS (Orsay, France)*  
-**Jun 2021 – Aug 2021**
-- Developed a **mobile tourism application**
-- Built an **admin monitoring system**:
-  - client management
-  - error visualization
-  - unusual-usage detection & alerting
+### 🚀 A few highlights
+- 📈 Built an **ML-driven automated emailing system** adapting to customer behavior → **+20% CTR**
+- 🧪 Implemented **MLOps practices** during projects/missions (CI/CD, reproducibility, deployment mindset)
+- 🧱 Worked on **technical architecture** (cloud / on-prem / hybrid) and **data pipeline integration**
 
 ---
 
-## 🎓 Education
-
-- **MSc – Artificial Intelligence Engineering (I2A)** — Université Paris 8 (France)  
-  **Sep 2025 – Present**
-- **BUT Informatique – Application Development** — IUT d’Orsay, Université Paris‑Saclay (France)  
-  **Sep 2021 – Sep 2024**
+### 🎯 My Focus & Interests
+- **MLOps & production ML** (monitoring, deployment, automation)
+- **ETL / Data Pipelines** (orchestration, ELT patterns, warehouse workflows)
+- **Cloud architecture** (AWS, hybrid systems)
+- **Customer analytics & segmentation** (marketing ML, behavior-based automation)
+- **AI applications** (FastAPI services, Dockerized deployments)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Skills
 
-### Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -63,46 +35,51 @@ I build **production-ready AI applications** and **data/ML pipelines**, with a s
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Data / Cloud / Deployment
+#### Data / Cloud / Engineering
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### ML / DL
+#### AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### Workflow
-- **Git / GitFlow**
-- **Agile Scrum**
-- **CI/CD** (GitHub Actions, GitLab CI)
-- **Code Review / Pull Requests**
-- **Data Pipelines**
+#### Analytics / Visualization / Design
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+#### Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+- Git / GitFlow · Agile Scrum · CI/CD · Code Review / PRs · Data Pipelines
 
 ---
 
-## 🌍 Languages
-- 🇬🇧 English: **C2** (native level)
+### 📜 Certifications
+- ✅ **Snowflake — Hands On Essentials**
+- ✅ **Apache Airflow — Certification**
+
+---
+
+### 🌍 Languages
+- 🇬🇧 English: **C2** (native level)  
 - 🇫🇷 French: **C2** (bilingual)
 
 ---
 
-## 🤝 Contact
-- 📧 **Email:** lazar5697@gmail.com  
-- 💻 **GitHub:** [Lazar1244](https://github.com/Lazar1244)
-
-
-
-🔗 LinkedIn: [https://www.linkedin.com/in/your-handle/](https://www.linkedin.com/in/lazar-stevanovic-90a111144/) 
+### 🌐 Connect with me
+- 📧 Email: **lazar5697@gmail.com**
+- 💻 GitHub: **[Lazar1244](https://github.com/Lazar1244)**
+- 🔗 LinkedIn: **[lazar-stevanovic](https://www.linkedin.com/in/lazar-stevanovic-90a111144/)**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazar-stevanovic-90a111144/)
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lazar1244&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazar1244&layout=compact)
