@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Lazar Stevanovic** 🤖📊
 
-I’m an **AI Engineer / Data Analyst specialized in AI**, currently a **Master student in Artificial Intelligence Engineering (I2A)** at **Université Paris 8 (France)**.  
+I’m an **AI Engineer / Data Analyst specialized in AI**.  
 I enjoy building **AI-powered applications**, **data pipelines**, and **MLOps-ready systems** that can move from idea → production.
 
 📍 Paris, France · ✉️ **lazar5697@gmail.com** · 💻 **GitHub:** [Lazar1244](https://github.com/Lazar1244)
